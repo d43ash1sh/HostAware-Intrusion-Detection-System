@@ -1,6 +1,6 @@
-# SSH Brute Force Detection and Monitoring System
+# HHostAware: Intrusion-Detection-System
 
-The SSH Brute Force Detection and Monitoring System is a Python Flask application that provides a dashboard console for monitoring and analyzing brute force attacks on the SSH service. The system includes an Intrusion Detection System (IDS) that detects potential attacks in real-time and provides alerts.
+The HostAware: Intrusion-Detection-System is a Python Flask application that provides a dashboard console for monitoring and analyzing attacks on the sytems. The system includes an Intrusion Detection System (IDS) that detects potential attacks in real-time and provides alerts.
 
 ## Features
 
