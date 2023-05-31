@@ -23,18 +23,6 @@ The HostAware: Intrusion-Detection-System is a Python Flask application that pro
 git clone https://github.com/your-username/ssh-brute-force-detection.git
 ```
 
-## Navigate to the project directory
-
-```shell
-cd ssh-brute-force-detection
-```
-
-## Install the required dependencies
-
-```shell
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. Configure the application settings by editing the config.py file. Specify the necessary parameters such as the IP address, port, and authentication details.
