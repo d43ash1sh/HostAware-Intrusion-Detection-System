@@ -15,13 +15,6 @@ The HostAware: Host Based Intrusion-Detection-System is a Python Flask applicati
 - Python 3.x
 - pip package manager
 
-## Installation
-
-1. Clone the repository:
-
-```shell
-git clone https://github.com/your-username//HostAware-Intrusion-Detection-System.git
-```
 
 ## Usage
 
