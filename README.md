@@ -20,7 +20,7 @@ The HostAware: Host Based Intrusion-Detection-System is a Python Flask applicati
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/ssh-brute-force-detection.git
+git clone https://github.com/your-username//HostAware-Intrusion-Detection-System.git
 ```
 
 ## Usage
